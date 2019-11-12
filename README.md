@@ -8,5 +8,8 @@ Links:
 * [Exit Certified Labs](https://exitcertified.qwiklabs.com/)
 
 Table of Contents:
-1. [Module 1: Introduction](/Module1)  
+1. [Module 1: Introduction](/Module1)
+    * [Intro](/Module1/Intro.md)
+    * [The Well Architected Framework](/Module1/The-Well-Architected-Framework.md)
+    * [AWS Global Infrastructure](/Module1/AWS-Global-Infrastructure.md)
 2. [Lab 1: Hosting a Static Website](/Lab1)  
