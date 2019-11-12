@@ -7,6 +7,9 @@ Links:
 * [Books](https://evantage.gilmoreglobal.com/#/)
 * [Exit Certified Labs](https://exitcertified.qwiklabs.com/)
 
+Contact:
+* [Email Instructor](mailto:imvp@exitcertified.com)
+
 Table of Contents:
 1. [Module 1: Introduction](/Module1)
     * [Intro](/Module1/Intro.md)
