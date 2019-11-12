@@ -2,7 +2,8 @@
 
 ![](https://github.com/linsera1809/AWS-Architecting/raw/master/Module1/common/images/large-scale-diagram.png)
 
-![](/large-scale-diagram.png)
+
+![](Module1/large-scale-diagram.png)
 
 * Notes:
     * S3 Buckets:
