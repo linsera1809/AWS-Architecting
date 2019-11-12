@@ -8,5 +8,5 @@ Links:
 * [Exit Certified Labs](https://exitcertified.qwiklabs.com/)
 
 Table of Contents:
-1. [Lab 1: Hosting a Static Website](/Lab1)
-2. 
+1. [Module 1: Introduction](/Module1)  
+2. [Lab 1: Hosting a Static Website](/Lab1)  
