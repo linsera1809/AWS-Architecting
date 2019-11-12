@@ -12,4 +12,5 @@ Table of Contents:
     * [Intro](/Module1/Intro.md)
     * [The Well Architected Framework](/Module1/The-Well-Architected-Framework.md)
     * [AWS Global Infrastructure](/Module1/AWS-Global-Infrastructure.md)
+    * [Large Scale Architectural Diagramming](/Module1/Large-Scale-Architectural-Diagram.md)
 2. [Lab 1: Hosting a Static Website](/Lab1)  
