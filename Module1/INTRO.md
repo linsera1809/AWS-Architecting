@@ -68,3 +68,15 @@ __Some Notes__
     * Free up resources to spend on new projects
     * Stop spending money running and maintaining data centers
     * Disposable resources allow for quick experimentation
+
+#### The Global Advantage 
+* Go global in minutes
+    * Multiple AWS Regions around the world
+    * Keep your application close to your users
+    * Facilitate high availability and disaster recovery
+
+##### CloudFront
+* Content Delivery Network
+    * A distribution that defines your origin server
+    * Caches content and delivers to the customers as needed
+    * `NOTE: Every 100 milliseconds of latency lost in AWS equates to a 1% loss of their global customers`
