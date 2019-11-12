@@ -108,3 +108,9 @@
 * Burstable Instance
     * Gives you a percentage of an overall CPU
     * Requires CPU credits per hour to acheive 100% credits
+
+### Honorable Mention - Tagging
+* EC2
+    * 50 Tags per resource
+* S3 
+    * 50,000 tag limit

@@ -35,4 +35,3 @@
         * Makes you more compliant
         * Still comes with a Hypervisor
     * **Note: if you want a server without a hypervisor, get a Bare-Metal option. Warning.. this is expensive**
-    * 
