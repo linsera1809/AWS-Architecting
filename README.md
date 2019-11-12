@@ -23,3 +23,6 @@ Table of Contents:
     * [Multipart Upload](/Module2/Multipart-Upload.md)
     * [S3 Costs](/Module2/S3-Costs.md)
     * [When Should You Use S3](/Module2/When-Should-You-Use-S3.md)
+4. [Module 3: EC2](/Module3)
+    * [Intro to EC2](/Module3/Intro-to-EC2.md)
+    * [EC2 Pricing](/Module3/EC2-Pricing.md)
