@@ -34,7 +34,10 @@ __11/12 to 11/14__
     * [Amazon RDS](/Module4/Amazon-RDS.md)
     * [DB Migrations](/Module4/AWS-DB-Migrations.md)
     * [Security](/Module4/Security.md)
-7. [Module 5: Networking in AWS - Pt. 1]()
+7. [Module 5: Networking in AWS - Pt. 1](/Module5)
+    * [Introduction to VPCs](/Module5/VPC-Intro.md)
+    * [Routing](/Module5/Routing.md)
+    * [Security in the Cloud](/Module5/Security-in-the-cloud.md)
 
 ## Resources:
 * ### Case Studies

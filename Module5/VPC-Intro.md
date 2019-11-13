@@ -28,3 +28,4 @@
 ## Use Case: Multi-Account Pattern
 * Large organizations and organizations with multiple IT teams
 * Medium-sized organizations that anticipate rapid growth
+
