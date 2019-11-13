@@ -47,6 +47,7 @@
 * ELB
     * Subnets are defined
     * ELB Registration
+    * Tied to the Auto Scaling group
 * CloudWatch
     * Monitor and Alert
 * Auto-Scaling
@@ -55,3 +56,15 @@
         * Security Group
         * User Data
     * Execute Scaling Policy
+    * Registering / Deregistration
+        * __Connection Draining__
+
+## Providing Elasticity with Auto Scaling
+* Launches or terminates instances based on specified conditions
+* Automatically registers new instances with load balancers when specified
+* Can launch across AZs
+* ### Ways to Auto Scale
+    * Scheduled
+    * Dynamic
+    * Predictive
+
