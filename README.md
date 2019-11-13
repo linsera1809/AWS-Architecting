@@ -1,5 +1,5 @@
 # Architecting on AWS 
-__Bobby Linse__
+__Bobby Linse__  
 __11/12 to 11/14__
 
 Links:
@@ -8,7 +8,8 @@ Links:
 * [Exit Certified Labs](https://exitcertified.qwiklabs.com/)
 
 Contact:
-* [Email Instructor](mailto:imvp@exitcertified.com)
+* Instructor: Ruben Lopez
+* [Email Support](mailto:imvp@exitcertified.com)
 
 Table of Contents:
 1. [Module 1: Introduction](/Module1)
@@ -26,3 +27,4 @@ Table of Contents:
 4. [Module 3: EC2](/Module3)
     * [Intro to EC2](/Module3/Intro-to-EC2.md)
     * [EC2 Pricing](/Module3/EC2-Pricing.md)
+5. [Lab 2: Deploying a Web Application]()

@@ -28,14 +28,14 @@
 ### Dynamic Abilities
 * Auto-Scaling
 * Load-Balancing
-* Lambda Functions `Technically... this is based on event-triggers but it is still dynamic`
+* Lambda Functions *Technically... this is based on event-triggers but it is still dynamic*
 
 ### Pay As You Go
 
 * No need to buy hardware or build data centers
     * Pay as you consume resources
     * Reduce upfront capital costs
-        * `NOTE: There is a link to Ruben's infrastructure calculator [here](https://docs.google.com/document/d/1Du1zDz2ZXC6e9VjN1PmdKFwQ5rIvp9BPyKrGwcjV3Sg/edit)`
+        * *NOTE: There is a link to Ruben's infrastructure calculator [here](https://docs.google.com/document/d/1Du1zDz2ZXC6e9VjN1PmdKFwQ5rIvp9BPyKrGwcjV3Sg/edit)*
 
 #### Cost Explorer
 *  Not extremely user-friendly, but it is very customizable  
@@ -48,9 +48,9 @@ __Leverage large economies of scale.__
     * Large volume hardware purchasing
 
 __Some Notes__
-    * `AWS owns 80% of the world's storage`
-    * `Their power comes directly from the power companies directly to the Data Centers`
-    * `Every cable to/from their data centers`
+    * *AWS owns 80% of the world's storage*
+    * *Their power comes directly from the power companies directly to the Data Centers*
+    * *Every cable to/from their data centers*
 
 #### The Capacity Advantage
 * Stop guessing about capacity
@@ -79,4 +79,4 @@ __Some Notes__
 * Content Delivery Network
     * A distribution that defines your origin server
     * Caches content and delivers to the customers as needed
-    * `NOTE: Every 100 milliseconds of latency lost in AWS equates to a 1% loss of their global customers`
+    * *NOTE: Every 100 milliseconds of latency lost in AWS equates to a 1% loss of their global customers*

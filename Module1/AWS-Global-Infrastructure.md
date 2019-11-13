@@ -31,7 +31,7 @@
     * Designing for Disaster tolerance: 
         * Deploy across multiple regions!
 
-`NOTE: 60-65% of all data transfers happen in the DC area (N. Virginia)`
+*NOTE: 60-65% of all data transfers happen in the DC area (N. Virginia)*
 
 ### There are 4 Architectural Considerations when choosing a REGION for deployment.
 1. Performance: be closer to your customers.
@@ -48,7 +48,7 @@
 4. Compliance.
     * For example If you are a Government based entity, you are required to use GOV-Cloud-West 
 
-`NOTE: Everything is an API call, everything else is a permission`
+*NOTE: Everything is an API call, everything else is a permission*
 
 ### Edge Locations
 1. Route53

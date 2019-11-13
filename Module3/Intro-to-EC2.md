@@ -12,6 +12,12 @@
         * These components are grouped together as a family, and then a class, and then a generation, and then the size
             * This is called the MODEL.
             * i.e. __COMPONENTS => FAMILY => CLASS => GENERATION => SIZE => MODEL__ 
+            * e.g. 
+                * T2.Micro
+                    * T = CLASS of FAMILIES
+                    * 2 = GENERATION
+                    * Micro = Size
+                    * T2.Micro = Model
 
 ## Virtual Machines vs. Physical Servers
 * When using disposable resources
