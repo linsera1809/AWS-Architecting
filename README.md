@@ -41,8 +41,12 @@ __11/12 to 11/14__
 * #### [Module 6: Networking in AWS - Pt. 2](/Module6)
     * [Introduction to Data Migration](/Module6/Intro.md)
     * [Load Balancers](/Module6/Load-Balancers.md)
-
+* #### [Module 8: Elasticity, High Availability, and Monitoring](/Module8)
+    * [Elasticity, High Availability, & Monitoring](/Module8/Intro.md)
 ## Resources:
 * ### Case Studies
     * [S3 Breach: Republican National Convention](https://www.upguard.com/breaches/the-rnc-files)
     * [S3 Breach: Capital One](https://blog.cloudsploit.com/a-technical-analysis-of-the-capital-one-hack-a9b43d7c8aea)
+* ### Automation Resource
+    * [Github Actions with AWS](https://github.com/actions/aws/tree/master/cli)
+    * [Configuring your Workflow](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
