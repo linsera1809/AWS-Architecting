@@ -30,6 +30,11 @@ __11/12 to 11/14__
 5. [Lab 2: Deploying a Web Application](https://exitcertified.qwiklabs.com/classrooms/2422/labs/15982)
 6. [Module 4: Adding a Database Layer](/Module4)
     * [Intro to the Database Layer](/Module4/Intro-to-Database-Layer.md)
+    * [DynamoDB](/Module4/DynamoDB.md)
+    * [Amazon RDS](/Module4/Amazon-RDS.md)
+    * [DB Migrations](/Module4/AWS-DB-Migrations.md)
+    * [Security](/Module4/Security.md)
+7. [Module 5: Networking in AWS - Pt. 1]()
 
 ## Resources:
 * ### Case Studies
