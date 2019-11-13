@@ -2,16 +2,16 @@
 __Bobby Linse__  
 __11/12 to 11/14__
 
-Links:
+## Links:
 * [Google Doc](https://tinyurl.com/AWSArchAssoc)
 * [Books](https://evantage.gilmoreglobal.com/#/)
 * [Exit Certified Labs](https://exitcertified.qwiklabs.com/)
 
-Contact:
+## Contact:
 * Instructor: Ruben Lopez
 * [Email Support](mailto:imvp@exitcertified.com)
 
-Table of Contents:
+## Table of Contents:
 1. [Module 1: Introduction](/Module1)
     * [Intro](/Module1/Intro.md)
     * [The Well Architected Framework](/Module1/The-Well-Architected-Framework.md)
@@ -30,3 +30,8 @@ Table of Contents:
 5. [Lab 2: Deploying a Web Application](https://exitcertified.qwiklabs.com/classrooms/2422/labs/15982)
 6. [Module 4: Adding a Database Layer](/Module4)
     * [Intro to the Database Layer](/Module4/Intro-to-Database-Layer.md)
+
+## Resources:
+* ### Case Studies
+    * [S3 Breach: Republican National Convention](https://www.upguard.com/breaches/the-rnc-files)
+    * [S3 Breach: Capital One](https://blog.cloudsploit.com/a-technical-analysis-of-the-capital-one-hack-a9b43d7c8aea)
