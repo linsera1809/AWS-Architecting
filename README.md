@@ -95,3 +95,5 @@ __11/12 to 11/14__
         * [VPC](https://aws.amazon.com/vpc/faqs/)
         * [S3](https://aws.amazon.com/s3/faqs/)
         * [EC2](https://aws.amazon.com/ec2/faqs/)
+    * #### Practice Exams
+        * [AWS Architecture 2019 - Kindle](https://www.amazon.com/Certified-Solutions-Architect-Practice-Questions-ebook/dp/B07BJGXPXK)
