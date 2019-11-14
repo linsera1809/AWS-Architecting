@@ -90,3 +90,8 @@ __11/12 to 11/14__
         * [Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
     * #### FAQs
         * [Simple Queue Service](https://aws.amazon.com/sqs/faqs/)
+        * [Relational Database Service](https://aws.amazon.com/rds/faqs/)
+        * [Route 53](https://aws.amazon.com/route53/faqs/)
+        * [VPC](https://aws.amazon.com/vpc/faqs/)
+        * [S3](https://aws.amazon.com/s3/faqs/)
+        * [EC2](https://aws.amazon.com/ec2/faqs/)
