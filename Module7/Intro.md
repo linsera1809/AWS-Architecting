@@ -44,6 +44,7 @@
             * In other words: IAM obviously doesnt manage the permissions in your web app. 
 * __Federated User__
 * __IAM Role__
+    * A role lets you define a set of permissions to access the resources that a user or service needs.
     * Typically a temporary Guest Account
 * __Identity Provider (IdP)__
     * For example:
