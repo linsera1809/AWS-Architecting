@@ -20,13 +20,13 @@
 
 ### Lambda Usecases
 * ##### Slot Machine
-* ![](slot-machine.PNG)   
+ ![](slot-machine.PNG)   
 
 * ##### Order Processing
-* ![](order-processing.PNG)
+ ![](order-processing.PNG)
 
 * ##### Mobile Backend
-* ![](mobile-usecase.PNG)
+ ![](mobile-usecase.PNG)
 
 ## API Gateway
 * Allows you to create APIs that act as "front doors" for your applications

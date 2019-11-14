@@ -74,7 +74,6 @@ __11/12 to 11/14__
 6. __Lab 6:__ Implementing a Serverless Architecture with AWS Managed Services
     * Use Lambda, SNS, DynamoDB, and S3 to create an eCommerce site that displays inventory
     * [Working Directory](/Lab6)
-    * [Link to Lab](https://exitcertified.qwiklabs.com/classrooms/2422/labs/15986)
 
 ## Resources:
 * ### Case Studies
@@ -86,5 +85,8 @@ __11/12 to 11/14__
     * [Site Reliability: Chaos Monkey and the Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
     * [Sample CloudFormation Templates](https://aws.amazon.com/cloudformation/resources/templates/)
 * ### Test Prep
+    * [Exam Guide](ExamGuide.md)
     * #### Whitepapers
         * [Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+    * #### FAQs
+        * [Simple Queue Service](https://aws.amazon.com/sqs/faqs/)

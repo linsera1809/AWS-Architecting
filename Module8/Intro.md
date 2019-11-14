@@ -27,6 +27,7 @@
 
 ## CloudWatch
 * Collects metrics __AND__ logs 
+* *NOTE* 15 months by default
 * *NOTE* CloudWatch does not inherently log Memory utilization
 * Can trigger changes in capacity in a resource, based on rules you set
 
