@@ -47,20 +47,24 @@ __11/12 to 11/14__
     * [Elasticity, High Availability, & Monitoring](/Module8/Intro.md)
 
 ## Labs
-1. Lab 1: Hosting a Static Website
+1. __Lab 1:__ Hosting a Static Website
     * Create an S3 bucket and upload a static app to that bucket.
     * [Working Directory](/Lab1)
-2. Lab 2: Deploying a Web Application on AWS
+2. __Lab 2:__ Deploying a Web Application on AWS
     * Using EC2 and User Data to deploy and instantiate an instance.
-3. Lab 3: Creating a Virtual Private Cloud
-4. Lab 4: Creating a Highly Available Environment
-5. Lab 5: Automating Infrastructure Deployment with AWS CloudFormation
-6. Lab 6: Implementing a Serverless Architecture with AWS Managed Services
+3. __Lab 3:__ Creating a Virtual Private Cloud
+    * Create an application with a VPC with a public and a private subnet that connects to an RDS instance and an EC2.
+4. __Lab 4:__ Creating a Highly Available Environment
+    * Create an auto scaling group, and a load balancer. 
+    * Complete a multi-AZ deployment.
+5. __Lab 5:__ Automating Infrastructure Deployment with AWS CloudFormation
+6. __Lab 6:__ Implementing a Serverless Architecture with AWS Managed Services
 
 ## Resources:
 * ### Case Studies
     * [S3 Breach: Republican National Convention](https://www.upguard.com/breaches/the-rnc-files)
     * [S3 Breach: Capital One](https://blog.cloudsploit.com/a-technical-analysis-of-the-capital-one-hack-a9b43d7c8aea)
 * ### Automation Resource
-    * [Github Actions with AWS](https://github.com/actions/aws/tree/master/cli)
-    * [Configuring your Workflow](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
+    * [Pipelines: Github Actions with AWS](https://github.com/actions/aws/tree/master/cli)
+    * [Pipelines:Configuring your Workflow](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
+    * [Site Reliability: Chaos Monkey and the Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
