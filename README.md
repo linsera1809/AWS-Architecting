@@ -41,6 +41,8 @@ __11/12 to 11/14__
     * [Load Balancers](/Module6/Load-Balancers.md)
 * #### [Module 7: Identity and Access Management (IAM)](/Module7)
     * [Introduction to IAM](/Module7/Intro.md)
+    * [Multiple Accounts](/Module7/Multiple-Accounts.md)
+    * [Organizing My Users](/Module7/Organizing-my-Users.md)
 * #### [Module 8: Elasticity, High Availability, and Monitoring](/Module8)
     * [Elasticity, High Availability, & Monitoring](/Module8/Intro.md)
 
