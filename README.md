@@ -51,6 +51,11 @@ __11/12 to 11/14__
     * [Other Automation Tools](/Module9/AutoTools.md)
 * #### [Module 11: Building Decoupled Architectures](/Module11)
     * [Introduction to Decoupling](/Module11/Intro.md)
+    * [Simple Queue Service](/Module11/SimpleQueueService.md)
+* #### [Module 12: Microservices and Serverless Architectures](/Module12)
+    * [Introduction to Microservices and Serverless Architectures](/Module12/Intro.md)
+    * [Container Services](/Module12/Container-Services.md)
+    * [Going Serverless with Lambda](/Module12/Going-Serverless.md)
 
 ## Labs
 1. __Lab 1:__ Hosting a Static Website
@@ -69,6 +74,7 @@ __11/12 to 11/14__
 6. __Lab 6:__ Implementing a Serverless Architecture with AWS Managed Services
     * Use Lambda, SNS, DynamoDB, and S3 to create an eCommerce site that displays inventory
     * [Working Directory](/Lab6)
+    * [Link to Lab](https://exitcertified.qwiklabs.com/classrooms/2422/labs/15986)
 
 ## Resources:
 * ### Case Studies
@@ -78,3 +84,7 @@ __11/12 to 11/14__
     * [Pipelines: Github Actions with AWS](https://github.com/actions/aws/tree/master/cli)
     * [Pipelines:Configuring your Workflow](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
     * [Site Reliability: Chaos Monkey and the Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
+    * [Sample CloudFormation Templates](https://aws.amazon.com/cloudformation/resources/templates/)
+* ### Test Prep
+    * #### Whitepapers
+        * [Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
