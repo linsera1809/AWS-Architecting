@@ -45,6 +45,10 @@ __11/12 to 11/14__
     * [Organizing My Users](/Module7/Organizing-my-Users.md)
 * #### [Module 8: Elasticity, High Availability, and Monitoring](/Module8)
     * [Elasticity, High Availability, & Monitoring](/Module8/Intro.md)
+* #### [Module 9: Automation](/Module9)
+    * [Introduction to Cloud Automation](/Module9/Intro.md)
+    * [CloudFormation Automation](/Module9/CloudFormation.md)
+    * [Other Automation Tools](/Module9/AutoTools.md)
 
 ## Labs
 1. __Lab 1:__ Hosting a Static Website
