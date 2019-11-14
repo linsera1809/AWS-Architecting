@@ -49,6 +49,8 @@ __11/12 to 11/14__
     * [Introduction to Cloud Automation](/Module9/Intro.md)
     * [CloudFormation Automation](/Module9/CloudFormation.md)
     * [Other Automation Tools](/Module9/AutoTools.md)
+* #### [Module 11: Building Decoupled Architectures](/Module11)
+    * [Introduction to Decoupling](/Module11/Intro.md)
 
 ## Labs
 1. __Lab 1:__ Hosting a Static Website
@@ -62,7 +64,11 @@ __11/12 to 11/14__
     * Create an auto scaling group, and a load balancer. 
     * Complete a multi-AZ deployment.
 5. __Lab 5:__ Automating Infrastructure Deployment with AWS CloudFormation
+    * Use CloudFormation to deploy a network, an application, and the Template Designer
+    * [Working Directory](/Lab5)
 6. __Lab 6:__ Implementing a Serverless Architecture with AWS Managed Services
+    * Use Lambda, SNS, DynamoDB, and S3 to create an eCommerce site that displays inventory
+    * [Working Directory](/Lab6)
 
 ## Resources:
 * ### Case Studies
